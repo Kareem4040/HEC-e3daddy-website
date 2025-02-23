@@ -1,2 +1,5 @@
 # HEC-e3daddy-website
 A website for e3daddy events
+
+# WARNING
+THIS IS STILL A WORK IN PROGRESS AND SHOULDNT BE DPLOYED IN THIS STATE
